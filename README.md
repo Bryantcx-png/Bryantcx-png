@@ -34,26 +34,4 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ### <img src="https://media.giphy.com/media/ITacRy2zH4vMQ/giphy.gif" width="50"> A little more about me...
-
-```javascript
-const bryan = {
-  pronouns: "he" | "him",
-  code: [Python, Java, JavaScript, TypeScript, HTML, CSS, SQL],
-  tools: [Next·js, Firebase, Git, "GitHub Actions", Figma, Canva],
-  currentlyLearning: ["Flutter", "REST APIs", "Cloud Infrastructure"],
-  certifications: [
-    "CCNA: Introduction to Networks (Cisco)",
-    "Introduction to Cybersecurity (Cisco)",
-    "Introduction to Modern AI (Cisco)",
-    "Claude Code in Action (Anthropic)",
-  ],
-  community: {
-    role: "Creative Design Director",
-    club: "Sunway Cybersecurity Club",
-  },
-  interests: ["fintech", "product design", "hackathons", "black coffee ☕"],
-  challenge: "Competing in the Huawei ICT Competition 2026 · Cloud Track 🏆",
-}
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<em>I am always open to <b>learning more</b>, creating more <b>fun projects</b>, and hopefully landing a <b>good internship and job</b> 🚀</em>
