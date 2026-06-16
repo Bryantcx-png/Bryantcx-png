@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bryan! <img src="https://media.giphy.com/media/fb5lozVxhBwVFFByW8/giphy.gif" width="50"></h1>
+<h1>Hi, I'm Bryan! <img src="https://media.giphy.com/media/fb5lozVxhBwVFFByW8/giphy.gif" width="30"></h1>
 <img align='right' src="https://my.aacsb.edu/Portals/0/assets/images/contact/Sunway-University-Logo.jpg" width="380">
 
 <p><em>
