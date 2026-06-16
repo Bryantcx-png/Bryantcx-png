@@ -2,7 +2,7 @@
 <img align='right' src="https://my.aacsb.edu/Portals/0/assets/images/contact/Sunway-University-Logo.jpg" width="380">
 
 <p><em>
-  Software Engineering Student at <a href="https://www.sunway.edu.my/">Sunway University</a> · Dean's List × 4 <br>
+  Software Engineering Student at <a href="https://www.sunway.edu.my/">Sunway University</a> · Dean's List <br>
   Creative Design Director at <a href="https://github.com/Bryantcx-png">Sunway Cybersecurity Club</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
