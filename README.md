@@ -1,5 +1,5 @@
-<h2>Hi, I'm Bryan! <img src="https://media.giphy.com/media/fb5lozVxhBwVFFByW8/giphy.gif" width="80"></h2>
-<img align='right' src="sunway-logo.png" width="230">
+<h1>Hi, I'm Bryan! <img src="https://media.giphy.com/media/fb5lozVxhBwVFFByW8/giphy.gif" width="80"></h1>
+<img align='right' src="https://my.aacsb.edu/Portals/0/assets/images/contact/Sunway-University-Logo.jpg" width="230">
 
 <p><em>
   Software Engineering Student at <a href="https://www.sunway.edu.my/">Sunway University</a> · Dean's List × 4 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>
