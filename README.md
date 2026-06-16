@@ -2,14 +2,13 @@
 <img align='right' src="https://my.aacsb.edu/Portals/0/assets/images/contact/Sunway-University-Logo.jpg" width="380">
 
 <p><em>
-  Software Engineering Student at <a href="https://www.sunway.edu.my/">Sunway University</a> · Dean's List <br>
+  2nd Year Software Engineering Student at <a href="https://www.sunway.edu.my/">Sunway University</a> · Dean's List <br>
   Creative Design Director at <a href="https://github.com/Bryantcx-png">Sunway Cybersecurity Club</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
 [![LinkedIn: bryan-tan-chun-xing](https://img.shields.io/badge/-bryan--tan--chun--xing-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryan-tan-chun-xing-3798aa27a/)](https://www.linkedin.com/in/bryan-tan-chun-xing-3798aa27a/)
 [![Email](https://img.shields.io/badge/-productivebryan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:productivebryan@gmail.com)](mailto:productivebryan@gmail.com)
 
-<br>
 <br>
 
 ## Languages
@@ -33,5 +32,5 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-### <img src="https://media.giphy.com/media/ITacRy2zH4vMQ/giphy.gif" width="50"> A little more about me...
+### <img src="https://media.giphy.com/media/ITacRy2zH4vMQ/giphy.gif" width="25"> A little more about me...
 <em>I am always open to <b>learning more</b>, creating more <b>fun projects</b>, and hopefully landing a <b>good internship and job</b> 🚀</em>
