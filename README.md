@@ -1,5 +1,5 @@
-<h1>Hi, I'm Bryan! <img src="https://media.giphy.com/media/fb5lozVxhBwVFFByW8/giphy.gif" width="80"></h1>
-<img align='right' src="https://my.aacsb.edu/Portals/0/assets/images/contact/Sunway-University-Logo.jpg" width="230">
+<h1>Hi, I'm Bryan! <img src="https://media.giphy.com/media/fb5lozVxhBwVFFByW8/giphy.gif" width="50"></h1>
+<img align='right' src="https://my.aacsb.edu/Portals/0/assets/images/contact/Sunway-University-Logo.jpg" width="320">
 
 <p><em>
   Software Engineering Student at <a href="https://www.sunway.edu.my/">Sunway University</a> · Dean's List × 4 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>
@@ -8,11 +8,8 @@
 
 [![LinkedIn: bryan-tan-chun-xing](https://img.shields.io/badge/-bryan--tan--chun--xing-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryan-tan-chun-xing-3798aa27a/)](https://www.linkedin.com/in/bryan-tan-chun-xing-3798aa27a/)
 [![Email](https://img.shields.io/badge/-productivebryan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:productivebryan@gmail.com)](mailto:productivebryan@gmail.com)
-[![GitHub Bryantcx-png](https://img.shields.io/github/followers/Bryantcx-png?label=follow&style=social)](https://github.com/Bryantcx-png)
 
----
-
-**Languages**
+## Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -23,7 +20,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-**Frameworks & Tools**
+## Frameworks & Tools
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -33,9 +30,7 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
----
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### <img src="https://media.giphy.com/media/cJfY82h8ijUFQEmDKa/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const bryan = {
@@ -59,5 +54,3 @@ const bryan = {
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
----
